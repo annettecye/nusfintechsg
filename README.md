@@ -9,3 +9,5 @@ I just want to find out how github works
 * okay this is the last one
 
 ![](sentosa.jpg)
+
+![](test.txt)
