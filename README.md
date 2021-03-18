@@ -7,3 +7,5 @@ I just want to find out how github works
 * this is a list item
 * this is another list item
 * okay this is the last one
+
+![](sentosa)
